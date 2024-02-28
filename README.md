@@ -27,5 +27,5 @@ int main() {
 }
 ```
 
-📝 ** Observações:**
+📝  **Observações:**
 Este programa foi desenvolvido como um exercício didático para a disciplina de estrutura de dados e pode ser expandido com mais funcionalidades, como edição e exclusão de boletos, ou até mesmo persistência de dados em arquivos.
